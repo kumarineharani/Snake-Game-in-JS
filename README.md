@@ -2,7 +2,7 @@
 
 A classic Snake game implemented using HTML, CSS, and JavaScript.
 
-Things to learn
+###Things to learn
 - [x] Basic JS Game rendering techniques
 - [x] Basic Html,Css
  
